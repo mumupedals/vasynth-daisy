@@ -2,7 +2,7 @@ Description of the project:
 
 This code is a modification of OscPocketD/VASynth, created by Staffan Melin, staffan.melin@oscillator.se.
 It was later modified by (Steven @moonfriendsynth) to work with the Daisy Pod.
-I (Christopher @Nettech15) have modified it further to run on the Daisy Seed without the use of the Daisy Pod board.
+Christopher @Nettech15 modified it further to run on the Daisy Seed without the use of the Daisy Pod board.
 Synth parameters are now controlled by a Miditech i2-61 midi keyboard.
 Feel free to copy, modify, and improve this code to match your equipment and sound requirements.
 
