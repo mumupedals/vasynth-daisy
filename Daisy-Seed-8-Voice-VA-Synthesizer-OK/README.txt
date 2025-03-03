@@ -6,7 +6,7 @@ Christopher @Nettech15 modified it further to run on the Daisy Seed without the 
 Synth parameters are now controlled by a Miditech i2-61 midi keyboard.
 Feel free to copy, modify, and improve this code to match your equipment and sound requirements.
 
-I(Funkbungus) have modified the code further in order to achieve a few things, so far I've implimented the 
+Funkbungus modified the code further in order to achieve a few things, so far they implemented the 
 folowing:
 
 -Modify the midi impimentation for easier use with generic midi devices, this includes the loop recorder
